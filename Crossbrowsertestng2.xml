@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests">
+<parameter name="os" value="mac"/>
+<parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="ChromeTest">
+    <classes>
+      <class name="UrbanTestCases.TC_001_loginadmin"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="SafariTest">
+<parameter name="os" value="mac"/>
+<parameter name="browser" value="safari"/>
+    <classes>
+      <class name="UrbanTestCases.TC_001_loginadmin"/>
+    </classes>
+  </test> <!-- Test -->  
+</suite> <!-- Suite -->

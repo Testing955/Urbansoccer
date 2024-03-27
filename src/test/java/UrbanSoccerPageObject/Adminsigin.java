@@ -1,4 +1,4 @@
-package Urbansoccer;
+package UrbanSoccerPageObject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -34,13 +34,16 @@ WebElement txtcontroller;
 WebElement txtGameBreakTime;
 @FindBy(xpath="/html/body/div[2]/div/div/div/div/div/form/div[5]/button")
 WebElement Submit;
-public void efield()
+@FindBy(xpath="//a[@id='logout_btn']")
+WebElement btnlogout;
+
+public void efield(String email)
 {
-txtemailfield.sendKeys("admin@urbansoccermanager.com");
+txtemailfield.sendKeys(email);
 }
-public void pwdfield()
+public void pwdfield(String passwords)
 {
-txtpasswordfield.sendKeys("qwerty");
+txtpasswordfield.sendKeys(passwords);
 }
 public void loginfield()
 {
@@ -77,6 +80,10 @@ txtGameBreakTime.click();
 public void submitbutton()
 {
 Submit.click();
+}
+public void signout()
+{
+btnlogout.click();
 }
 }
 

@@ -1,0 +1,56 @@
+13:32:09.085 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+13:32:09.233 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+13:32:09.290 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+13:32:11.634 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin
+13:32:17.802 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the creategame
+13:32:27.916 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the ground
+13:32:27.951 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the hometeam
+13:32:28.015 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the teamaway
+13:32:28.047 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the controller
+13:32:28.076 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the breaktime
+13:32:33.128 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the submitbutton
+16:46:36.338 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+16:46:36.476 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+16:46:36.529 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+16:46:41.909 [main] ERROR UrbanTestCases.TC_001_loginadmin - test failed...
+16:47:20.222 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+16:47:30.283 [main] ERROR UrbanTestCases.TC_001_loginadmin - test failed...
+16:48:37.091 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+16:48:44.764 [main] ERROR UrbanTestCases.TC_001_loginadmin - test failed...
+16:51:41.733 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+16:51:47.218 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+16:51:47.277 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+16:51:47.751 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin
+16:51:54.777 [main] ERROR UrbanTestCases.TC_001_loginadmin - test failed...
+16:52:52.894 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+16:52:53.042 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+16:52:53.095 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+16:52:55.245 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin
+16:53:01.326 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the creategame
+16:53:11.435 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the ground
+16:53:11.466 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the hometeam
+16:53:11.521 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the teamaway
+16:53:11.550 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the controller
+16:53:11.579 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the breaktime
+16:53:16.633 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the submitbutton
+18:45:37.776 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+18:45:37.791 [main] INFO  UrbanTestCases.TC_001_loginadmin - Entering valid email and password
+18:45:37.920 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+18:45:37.977 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+18:45:49.125 [main] ERROR UrbanTestCases.TC_001_loginadmin - test is failed
+18:46:40.306 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+18:46:40.322 [main] INFO  UrbanTestCases.TC_001_loginadmin - Entering valid email and password
+18:46:40.455 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+18:46:40.514 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+18:46:51.608 [main] ERROR UrbanTestCases.TC_001_loginadmin - test is failed
+18:48:09.504 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+18:48:09.518 [main] INFO  UrbanTestCases.TC_001_loginadmin - Entering valid email and password
+18:48:09.648 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+18:48:09.704 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+18:48:14.168 [main] ERROR UrbanTestCases.TC_001_loginadmin - test is failed
+18:49:15.942 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+18:49:15.957 [main] INFO  UrbanTestCases.TC_001_loginadmin - Entering valid email and password
+18:49:16.092 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+18:49:16.153 [main] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+18:49:21.088 [main] ERROR UrbanTestCases.TC_001_loginadmin - test is failed
+18:50:15.240 [main] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
