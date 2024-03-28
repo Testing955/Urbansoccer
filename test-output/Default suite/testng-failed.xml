@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="UrbanTestCases.TC_001_loginadmin">
+      <class name="UrbanTestCases.TC_002_DDT">
         <methods>
-          <include name="sigin"/>
+          <include name="verify_loginDDT"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- UrbanTestCases.TC_001_loginadmin -->
+      </class> <!-- UrbanTestCases.TC_002_DDT -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

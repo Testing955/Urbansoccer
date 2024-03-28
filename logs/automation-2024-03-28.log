@@ -1,0 +1,52 @@
+07:19:46.463 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:19:46.496 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:19:46.507 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:20:57.413 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+07:20:57.432 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Entering valid email and password
+07:20:57.624 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+07:20:57.744 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+07:20:59.743 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin
+07:21:07.503 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the creategame
+07:21:21.851 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the ground
+07:21:21.871 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the hometeam
+07:21:21.946 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the teamaway
+07:21:21.962 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the controller
+07:21:22.000 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the breaktime
+07:21:27.045 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the submitbutton
+07:21:27.068 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the logoutbutton
+07:22:33.385 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:22:41.600 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:22:51.607 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:23:01.595 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:23:11.565 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:23:51.572 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:23:57.346 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:24:07.344 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:24:17.318 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:24:27.307 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:25:00.965 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:25:30.174 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Finish of the TC_002_DDT***
+07:25:30.179 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:25:31.529 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:25:47.949 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:26:03.149 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:28:25.234 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:28:29.289 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:28:45.542 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:28:55.539 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:29:00.255 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Finish of the TC_002_DDT***
+07:29:00.257 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:29:05.539 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:29:15.501 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:29:16.748 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:29:32.971 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:29:49.668 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:31:21.675 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:32:45.547 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:33:14.502 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Finish of the TC_002_DDT***
+07:33:14.506 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:33:15.498 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:33:20.061 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Finish of the TC_002_DDT***
+07:33:20.063 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:33:30.987 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+07:33:36.438 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***

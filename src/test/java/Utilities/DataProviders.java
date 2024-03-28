@@ -1,5 +1,6 @@
 package Utilities;
 
+import java.io.File;
 import java.io.IOException;
 
 import org.testng.annotations.DataProvider;
@@ -11,8 +12,15 @@ public class DataProviders {
 	@DataProvider(name="LoginData")
 	public String [][] getData() throws IOException
 	{
-		String path=".\\Users/hestabit/Downloads/DATADRIVENTEST.xlsx";
-		
+		String path="/Users/hestabit/Downloads/Urbansoccer_logindata.xlsx";
+	   // String path = "./Users/hestabit/Downloads/DATADRIVENTEST.xlsx";
+	    System.out.println("Excel Path: " + path); // Debugging: Print path
+
+	    File excelFile = new File(path);
+	    if (!excelFile.exists()) {
+	        throw new IOException("File not found at specified path: " + path);
+	    }
+
 		ExcelUtility xlutil=new ExcelUtility(path);//creating an object for XLUtility
 		
 		int totalrows=xlutil.getRowCount("Sheet1");	

@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <parameter name="os" value="mac"/>
-  <parameter name="browser" value="chrome"/>
-  <test thread-count="5" name="Test(failed)">
+  <parameter name="browser" value="safari"/>
+  <test thread-count="5" parallel="tests" name="safari test(failed)">
     <classes>
-      <class name="UrbanTestCases.TC_001_loginadmin">
+      <class name="UrbanTestCases.TC_002_DDT">
         <methods>
-          <include name="sigin"/>
+          <include name="verify_loginDDT" invocation-numbers="1 2 3 4"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- UrbanTestCases.TC_001_loginadmin -->
+      </class> <!-- UrbanTestCases.TC_002_DDT -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- safari test(failed) -->
+  <test thread-count="5" parallel="tests" name="chrome Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="UrbanTestCases.TC_002_DDT">
+        <methods>
+          <include name="verify_loginDDT" invocation-numbers="1 2 3 4"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- UrbanTestCases.TC_002_DDT -->
+    </classes>
+  </test> <!-- chrome Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
