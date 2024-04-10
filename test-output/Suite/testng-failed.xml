@@ -7,7 +7,7 @@
     <classes>
       <class name="UrbanTestCases.TC_002_DDT">
         <methods>
-          <include name="verify_loginDDT" invocation-numbers="1 2 3 4"/>
+          <include name="verify_loginDDT"/>
           <include name="setup"/>
         </methods>
       </class> <!-- UrbanTestCases.TC_002_DDT -->

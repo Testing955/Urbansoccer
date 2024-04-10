@@ -1,3 +1,26 @@
 07:33:46.235 [TestNG-tests-1] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
 07:33:53.129 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
 07:34:10.081 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:50:39.187 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:50:42.577 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:50:42.592 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:50:42.604 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:50:42.615 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:53:10.625 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Finish of the TC_002_DDT***
+11:53:10.630 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:53:26.850 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:53:43.560 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+11:53:59.785 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+17:23:41.196 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - ***Starting of the testcase***
+17:23:41.215 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Entering valid email and password
+17:23:41.346 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin email
+17:23:41.403 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin password
+17:23:43.894 [TestNG-tests-1] INFO  UrbanTestCases.TC_001_loginadmin - Clicked on the account admin
+17:23:48.903 [TestNG-tests-1] ERROR UrbanTestCases.TC_001_loginadmin - test failed...
+17:24:04.028 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+17:24:11.031 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+17:24:11.038 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+17:24:11.045 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+17:24:11.051 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+17:24:11.067 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
+17:24:11.072 [TestNG-tests-2] INFO  UrbanTestCases.TC_002_DDT - ***Starting of the TC_002_DDT***
